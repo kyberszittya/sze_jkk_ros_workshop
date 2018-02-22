@@ -1,0 +1,8 @@
+int32 time
+int32 speed
+# Angle in radians
+float32 angle
+---
+bool success
+---
+int32 time_remaining

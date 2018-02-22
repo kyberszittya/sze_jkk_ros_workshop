@@ -1,0 +1,6 @@
+uint32 pos
+uint32 speed
+---
+uint32 final_pos
+---
+uint32 curr_pos

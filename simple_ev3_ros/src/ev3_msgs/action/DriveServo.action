@@ -1,0 +1,8 @@
+uint32 direction
+uint32 speed
+# Angle in radians
+float32 angle
+---
+geometry_msgs/Pose2D final_pos
+---
+geometry_msgs/Pose2D curr_pos

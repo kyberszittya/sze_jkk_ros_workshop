@@ -1,0 +1,6 @@
+int32 target_distance
+int32 speed
+---
+bool success
+---
+int32 current_distance

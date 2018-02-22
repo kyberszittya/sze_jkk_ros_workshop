@@ -1,0 +1,5 @@
+bool release
+---
+bool success
+---
+int32 progress

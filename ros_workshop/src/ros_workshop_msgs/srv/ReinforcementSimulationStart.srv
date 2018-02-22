@@ -1,0 +1,8 @@
+int32 n_games_per_update
+int32 n_max_steps
+int32 n_iterations
+int32 save_iterations
+float32 discount_rate
+---
+bool success
+float32[] gradients

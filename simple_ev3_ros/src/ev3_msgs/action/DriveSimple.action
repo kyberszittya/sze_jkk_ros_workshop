@@ -1,0 +1,6 @@
+int32 speed
+int32 duration
+---
+bool success
+---
+int32 percentage
